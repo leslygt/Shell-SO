@@ -15,6 +15,7 @@ utilizador cria tarefas com título, descrição e prioridade, pode ver a lista 
 tarefas e editar as tarefas criadas
 
 Como correr:
+
 • make
 
 • Para conversão: 
