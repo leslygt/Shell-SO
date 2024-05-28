@@ -1,7 +1,7 @@
 # ShellX
 Eate projeto de sistemas operativos com a finalidae de criar um Shell. 
 
-Foram implementadas as seguintes funcionalidades :
+Foram implementadas as seguintes **funcionalidades** :
 
 • Conversão de Imagem: Implementamos com sucesso a conversão de 
 imagens de JPG para PNG.
@@ -15,9 +15,9 @@ comando deste histórico, editá-lo ou reexecutá-lo.
 aos utilizadores, através de uma interface gráfica gerir tarefas diretamente 
 do shellx, melhorando significativamente a interação com o sistema. O 
 utilizador cria tarefas com título, descrição e prioridade, pode ver a lista de 
-tarefas e editar as tarefas criadas
+tarefas e editar as tarefas criadas.
 
-Como correr:
+**Como correr**:
 
 • make
 
