@@ -22,7 +22,7 @@ tarefas e editar as tarefas criadas.
 • make
 
 • Para conversão: 
-1. Instale o Imagemagick, aceda a https://legacy.imagemagick.org/script/download.php e siga as instruções de dowloand para o seu sistema operativo.
+1. Instale o Imagemagick, aceda a https://legacy.imagemagick.org/script/download.php e siga as instruções de download para o seu sistema operativo.
 O imageMagick® is a free, open-source software suite, used for editing and manipulating digital images. It can be used to create, edit, compose, or convert bitmap images, and supports a wide range of file formats, including JPEG, PNG, GIF, TIFF, and Ultra HDR.
 2. ./myapp convert [caminhodaimagem]
    
