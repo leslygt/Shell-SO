@@ -1,5 +1,5 @@
 # ShellX
-Eate projeto de sistemas operativos com a finalidae de criar um Shell. 
+Este é um projeto de sistemas operativos com a finalidade de criar um Shell. 
 
 Foram implementadas as seguintes **funcionalidades** :
 
